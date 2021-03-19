@@ -1,5 +1,5 @@
 # test_boot
-[Тот же самый проект](https://github.com/kreslojerry/FirstMvc), только с использованием spring-boot.
+[Тот же самый проект](https://github.com/kreslojerry/FirstMvc), только с использованием spring-boot.  
 Технологии:
 + Spring-boot Freemarker
 + Spring-boot-starter-web
