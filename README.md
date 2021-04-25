@@ -8,3 +8,6 @@
 + Hibernate core
 + Spring JPA
 + PostgreSQL
+
+#### Структура базы данных проекта:  
+<img src="https://github.com/FleexJ/resource/blob/main/FirstMvc/db_struct.png" width="350px"/>
